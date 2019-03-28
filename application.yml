@@ -4,11 +4,11 @@ spring:
      - dev
 ---
 spring:
-   profiles:dev
+   profiles: dev
    application:
       name: vooleservice-config-dev
 ---
 spring:
-   profiles:test
+   profiles: test
    application:
     name: vooleservice-config-test
