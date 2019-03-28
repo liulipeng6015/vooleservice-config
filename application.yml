@@ -6,7 +6,7 @@ spring:
 spring:
    profiles:dev
    application:
-    name: vooleservice-config-dev
+      name: vooleservice-config-dev
 ---
 spring:
    profiles:test
