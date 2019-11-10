@@ -1,7 +1,6 @@
- name: zhagnsan
+name: zhagnsan
 server:
-    port: 9001
-   
+    port: 9001   
 spring:
     profiles: dev
     application:
